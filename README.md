@@ -28,9 +28,9 @@ Prerequisites
 
  Installation  
 1. Clone the repository 
-   ```bash
+   ```bash[
    git clone https://github.com/yourusername/BubbleShooter.git
-   ```
+   ```](https://github.com/Rajamadan/Bubble-Shooter)
 2. Open Unity Hub, click Open Project, and select the cloned folder.  
 3. Click Play in the Unity Editor to start playing!  
 
